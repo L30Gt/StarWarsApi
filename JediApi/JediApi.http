@@ -1,0 +1,6 @@
+@JediApi_HostAddress = http://localhost:5018
+
+GET {{JediApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
